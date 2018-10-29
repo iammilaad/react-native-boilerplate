@@ -1,5 +1,5 @@
 # React-Native Boilderplate
-This boilerplate launches React Native app with redux, Redux-Saga and React-Native-Navigation, The boilerplate is super helpful to kick-start your next project.
+This boilerplate launches React Native app with redux, Redux-Saga and React-Native-Navigation, this boilerplate is super helpful to kick-start your next project.
 ## tools
 * [React-Native](https://github.com/facebook/react-native)
 * [Redux](https://github.com/reactjs/redux)
@@ -30,7 +30,7 @@ react-native run ios
 react-native run android
 ```
 
-##Tips
+## Tips
 * if you want to change custom fonts use [this](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4)
 * if you want to change project name use [this](https://www.npmjs.com/package/react-native-rename)
 * if you have :CFBundleIdentifier", Does Not Exist error use this routine
