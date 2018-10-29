@@ -33,7 +33,8 @@ react-native run android
 ## Tips
 * if you want to change custom fonts use [this](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4)
 * if you want to change project name use [this](https://www.npmjs.com/package/react-native-rename)
-* if you have :CFBundleIdentifier", Does Not Exist error use this routine
+* do not forget to run sudo xcodebuild --license
+* if you have :CFBundleIdentifier", Does Not Exist error follow this routine
 ```
 This is may occurs if you are missing config.h file,
 
